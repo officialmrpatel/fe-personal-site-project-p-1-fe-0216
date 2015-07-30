@@ -1,9 +1,4 @@
----
-language: html, css, javascript
-tags: hello world, personal site challenge
-type: lab
-resources: 0
----
+
 
 ## Starting Your Personal Site Project
 
