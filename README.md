@@ -35,3 +35,5 @@ If you need ideas ask your instructor or TA for advice on what you can build.
 13. To complete this lab update this README.md file by pasting the finished URL link to your hello world page at the bottom of this page here: 
 
 14. Then make a pull request. And select I'm Done button for the lab on Learn App.
+
+<a href='https://learn.co/lessons/fe-personal-site-project-p-1' data-visibility='hidden'>View this lesson on Learn.co</a>
