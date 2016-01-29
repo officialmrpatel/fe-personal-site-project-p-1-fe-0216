@@ -36,4 +36,4 @@ If you need ideas ask your instructor or TA for advice on what you can build.
 
 14. Then make a pull request. And select I'm Done button for the lab on Learn App.
 
-<a href='https://learn.co/lessons/fe-personal-site-project-p-1' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-personal-site-project-p-1' title='Starting Your Personal Site Project'>Starting Your Personal Site Project</a> on Learn.co and start learning to code for free.</p>
