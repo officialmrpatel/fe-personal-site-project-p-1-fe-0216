@@ -2,9 +2,7 @@
 
 ## Starting Your Personal Site Project
 
-Throughout this course you will build a personal website project adding to it each week. As you learn new skills you will implement them into your personal project to help memory retention and gain confidence that you can perform what you have learned. This process also allows you personal creative freedom to make whatever you want. In the past students have build portoflio sites, resume pages, sites celebrating a new baby or family pet. Wedding announcement sites, Sites for a firend or family memebers small business, or their own business. Some have built sites for hobbies from fitness, gaming, to synth collections. Others have re-built non-profit sites or donation pages for charities. Whatever you choose to build it is entirely up to you. You instructor will show you site examples in class to give you an idea of what you should be able to accomplish by the end of the course. Most sites are under 5 pages and are fully responsive and viewable on any device.
-
-If you need ideas ask your instructor or TA for advice on what you can build.
+Throughout this course you will build a personal website project adding to it each week. As you learn new skills you will implement them into your personal project to help memory retention and gain confidence that you can perform what you have learned. This process also allows you personal creative freedom to make whatever you want. In the past students have build portoflio sites, resume pages, sites celebrating a new baby or family pet. Wedding announcement sites, Sites for a friend, family, or your own business. Some have built sites for hobbies from fitness, gaming, to synth collections. Others have re-built non-profit sites or donation pages for charities. Whatever you choose to build it is entirely up to you. Most sites are under 5 pages and are fully responsive and viewable on any device.
 
 ### Part 1
 
