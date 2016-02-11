@@ -30,7 +30,7 @@ Throughout this course you will build a personal website project adding to it ea
 
 12. Next use either [FTP directions or Github Pages directions from the video playlist here](https://www.youtube.com/watch?v=q89ZQXsIFQQ&list=PLj148bJp5wiwrxCm4xRyKfG7K3CnAPfIT), which explains how to publish your website to the internet. When your done you should be able to see the phrase hello world from your domain or Github pages site URL.
 
-13. To complete this lab, fork, clone, this lab as you would any other lab. Then cd into the folder of this lab and update this README.md file by pasting the finished URL link to your hello world page at the bottom of this page here: <your-site-domain-goes-here>
+13. To complete this lab, fork, clone, this lab as you would any other lab. Then cd into the folder of this lab and update this README.md file by pasting the finished URL link to your hello world page at the bottom of this page here: http://officialmrpatel.github.io/bhavik-patel-site.
 
 14. Then save the file, git add, git commit, git push, and make a pull request to finish this lab.
 
